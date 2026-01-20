@@ -1,0 +1,2 @@
+# TradeNote
+Trading journal
